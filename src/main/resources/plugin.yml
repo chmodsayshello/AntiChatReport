@@ -1,0 +1,7 @@
+name: AntiChatReport
+version: '${project.version}'
+main: chmodsayshello.antichatreport.AntiChatReport
+api-version: 1.15
+authors: [ chmodsayshello ]
+description: This simple plugin prevents people from reporting each other
+website: github.com/chmodsayshello
