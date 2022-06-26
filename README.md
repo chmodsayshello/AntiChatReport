@@ -1,5 +1,5 @@
 # AntiChatReport
-This simple plugin stops people from being able to report each othrt
+This plugin makes the clients believe that chat messages are not from players.
 
 How does it work?
 --
